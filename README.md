@@ -1,4 +1,4 @@
-Collections of Mini Projects in Spring Board and Solutions
+**Collections of Mini Projects in Spring Board and Solutions**
 
 SQL
 Data Wraggling API
