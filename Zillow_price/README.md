@@ -8,3 +8,15 @@ We will use the Zillow Dataset that contains housing price data in 2016 and 2017
 
 Link to the dataset:
 https://www.kaggle.com/c/zillow-prize-1/data
+
+
+
+### 3. The Jupyter notebook contains the following steps:
+
+_1. Data Wrangling_
+
+_2. Storytelling_
+
+_3. Inferential Statistics_
+
+_4. Model_
