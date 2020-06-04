@@ -5,3 +5,6 @@
     plt.title('Actual and predicted values')
     plt.legend()
     plt.show()
+
+# Residual plots:
+http://docs.statwing.com/interpreting-residual-plots-to-improve-your-regression/
