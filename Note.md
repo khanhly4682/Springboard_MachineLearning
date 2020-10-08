@@ -21,4 +21,5 @@ cmd > pip --version
 # 3. Update pip
 conda update pip
 
-
+# 4. Install Keras
+Open Window > Anaconda Prompt > pip install keras
