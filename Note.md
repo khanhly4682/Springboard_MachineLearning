@@ -23,3 +23,6 @@ conda update pip
 
 # 4. Install Keras
 Open Window > Anaconda Prompt > pip install keras
+
+# 4. Install a package on PyCharm
+- File/Settings/ Project/ Project Interpreter > press "+" sign on the right, enter the package name.
